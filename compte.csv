@@ -1,0 +1,12 @@
+login;nom;groupe_principal;groupes_secondaires
+nicolas;Nicolas;admins;acces_ssh
+binome;Binome;admins;acces_ssh
+support1;Support Un;support;acces_ssh
+dev1;Dev Un;dev;acces_ssh
+dev2;Dev Deux;dev;acces_ssh
+design1;Design Un;design;acces_ssh
+design2;Design Deux;design;acces_ssh
+com1;Commercial Un;commercial;acces_ssh
+com2;Commercial Deux;commercial;acces_ssh
+free1;Freelance Un;freelance;acces_ssh
+free2;Freelance Deux;freelance;acces_ssh
